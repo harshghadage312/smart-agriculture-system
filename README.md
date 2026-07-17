@@ -29,32 +29,19 @@ A PHP and MySQL based web application that helps farmers with:
 # 📸 Project Screenshots
 
 ## 🏠 Home Page
-
 ![Home Page](admin/homepage.png)
 
----
-
 ## 🔐 Login Page
-
 ![Login Page](admin/login-page.png)
 
----
-
 ## 🌾 Crop Recommendation
-
-![Crop Recommendation](admin/Crop Recommendation.png)
-
----
+![Crop Recommendation](admin/crop-recommendation.png)
 
 ## 🛒 Marketplace
+![Marketplace](admin/marketplace.png)
 
-![Marketplace](admin/Marketplace.png)
-
----
-
-## 🐛 Pest and Disease Management
-
-![Pest and Disease Management](admin/pest and disease managment.png)
+## 🐛 Pest & Disease Management
+![Pest & Disease Management](admin/pest-disease-management.png)
 
 ## Author
 
